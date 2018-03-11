@@ -2,4 +2,6 @@ Este es una prueba de que estamos editando un archivo: Oscar SOlÃ­s
 
 Ok, listo ahora vamos a ver pr que hay este tema de github : Oscar Solis, otra vez editado y luego de subir al branch.
 
+He clonado el archivo a mi compu, añado estas lineas, y lo actualizo. Edgar M.
+
 
