@@ -2,4 +2,4 @@ Este es una prueba de que estamos editando un archivo: Oscar SOlís
 
 Ok, listo ahora vamos a ver pr que hay este tema de github : Oscar Solis, otra vez editado y luego de subir al branch.
 
-
+Esta es la tercera edicion de este archivo por parte del creador, Edgar confirmar. 
